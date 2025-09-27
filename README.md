@@ -1,4 +1,4 @@
-法的な理由のため; このアカウントの内容は主に研究目的です (For legal reasons; the contents of this account are primarily for research purposes)
+法的な理由のため; このアカウントの内容は主に研究目的です (For legal reasons; the contents of this account are predominantly for research purposes)
 <!--
 **n0g1tsun3/n0g1tsun3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
