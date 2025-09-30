@@ -1,66 +1,68 @@
-<!-- Banner / hero image -->
+<!-- Hero Banner -->
 <p align="center">
-  <img width="100%" alt="Banner" src="https://github.com/user-attachments/assets/8cf88f08-57df-46b2-b092-a8db0f1ffc83" />
+  <img width="100%" alt="Profile Banner" src="https://github.com/user-attachments/assets/8cf88f08-57df-46b2-b092-a8db0f1ffc83" />
 </p>
 
-<!-- Disclaimer text, centered -->
+<!-- Disclaimer -->
 <p align="center">
-  法的な理由のため; このアカウントの内容は主に研究目的です  
-  <br />(For legal reasons; the contents of this account are predominantly for research purposes)
+  <em>法的な理由のため; このアカウントの内容は主に研究目的です</em>
+  <br />
+  <sub>(For legal reasons; the contents of this account are predominantly for research purposes)</sub>
 </p>
 
-<!-- Platform row: TryHackMe (API badge image), HackerOne and HTB badges/links -->
-<div align="center" style="display:flex;gap:12px;flex-wrap:wrap;justify-content:center;margin:18px 0;">
-  <!-- TryHackMe: API endpoint as an image (from your iframe src) -->
-  <a href="https://tryhackme.com/p/n0g1tsun3" aria-label="TryHackMe profile n0g1tsun3">
-    <img
-      src="https://tryhackme-badges.s3.amazonaws.com/n0g1tsun3.png"
-      alt="TryHackMe public profile badge for n0g1tsun3"
-      role="img"
-      style="width:220px; height:auto; border-radius:8px; border:0;"
-    />
-  </a>
+<br />
 
-  <!-- HackerOne: link to profile with a purple shield badge fallback -->
-  <a href="https://hackerone.com/n0g1tsun3" aria-label="HackerOne profile n0g1tsun3">
-    <img
-      src="https://img.shields.io/badge/HackerOne-n0g1tsun3-%23300066?style=for-the-badge&logo=hackerone&logoColor=white&labelColor=%23000000"
-      alt="HackerOne profile for n0g1tsun3"
-      role="img"
-      style="width:220px; height:auto; border-radius:8px; border:0;"
-    />
-  </a>
-
-  <!-- Hack The Box: link to profile with a purple shield badge fallback -->
-  <a href="https://ctf.hackthebox.com/user/profile/900964" aria-label="Hack The Box profile 900964">
-    <img
-      src="https://img.shields.io/badge/HackTheBox-900964-%23300066?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=%23000000"
-      alt="Hack The Box profile 900964"
-      role="img"
-      style="width:220px; height:auto; border-radius:8px; border:0;"
-    />
-  </a>
-</div>
-
-<!-- Visitor counter & GitHub stats -->
+<!-- Platform Badges -->
 <div align="center">
-
-  <img 
-    src="https://count.getloli.com/get/@n0g1tsun3" 
-    alt="Visitor counter for n0g1tsun3" 
-    width="auto" 
-    style="margin: 0 8px;" />
   
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=n0g1tsun3&theme=midnight-purple&hide_title=true&show_icons=true&include_all_commits=true&count_private=true" 
-    alt="GitHub statistics for n0g1tsun3" 
-    width="auto" 
-    style="margin: 0 8px;" />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=n0g1tsun3&theme=midnight-purple&hide_title=true&layout=compact&langs_count=10&hide=html,javascript,css"
-    alt="Top programming languages used by n0g1tsun3" 
-    width="auto" 
-    style="margin: 0 8px;" />
+  <a href="https://tryhackme.com/p/n0g1tsun3" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/n0g1tsun3.png" 
+         alt="TryHackMe Badge" 
+         height="80" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackthebox.eu/home/users/profile/900964" target="_blank">
+    <img src="https://www.hackthebox.eu/badge/image/900964" 
+         alt="Hack The Box Badge" 
+         height="80" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://hackerone.com/n0g1tsun3" target="_blank">
+    <img src="https://img.shields.io/badge/HackerOne-n0g1tsun3-494649?style=for-the-badge&logo=hackerone&logoColor=white" 
+         alt="HackerOne Profile" 
+         height="80" />
+  </a>
 
 </div>
+
+<br />
+
+---
+
+<!-- Stats Section -->
+<div align="center">
+  
+  <img src="https://count.getloli.com/get/@n0g1tsun3" alt="Profile Views" />
+  
+  <br /><br />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=n0g1tsun3&theme=midnight-purple&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" 
+       alt="GitHub Stats" 
+       height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n0g1tsun3&theme=midnight-purple&hide_title=false&layout=compact&langs_count=8&hide=html,javascript,css&hide_border=true" 
+       alt="Top Languages" 
+       height="170" />
+  
+  <br />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=n0g1tsun3&theme=midnight-purple&hide_border=true" 
+       alt="GitHub Streak" 
+       width="420" />
+
+</div>
+
+---
+
+<p align="center">
+  <sub>🔒 Security researcher | 🐛 Bug bounty hunter | 💻 CTF enthusiast</sub>
+</p>
