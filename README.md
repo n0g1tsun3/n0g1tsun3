@@ -21,7 +21,6 @@
         <div style="font-size:12px;color:#bfb0d9">TryHackMe · Hack The Box · HackerOne</div>
       </div>
     </div>
-
     <div style="display:flex;gap:12px;flex-wrap:wrap;justify-content:center;">
       <!-- TryHackMe -->
       <a href="https://tryhackme.com/p/<your-username>" style="text-decoration:none;">
@@ -35,7 +34,6 @@
           </div>
         </div>
       </a>
-
       <!-- Hack The Box -->
       <a href="https://www.hackthebox.com" style="text-decoration:none;">
         <div style="background:#220026;border:1px solid rgba(255,255,255,0.03);padding:12px;border-radius:10px;min-width:200px;color:#e8dbff;">
@@ -48,7 +46,6 @@
           </div>
         </div>
       </a>
-
       <!-- HackerOne -->
       <a href="https://hackerone.com/<your-username>" style="text-decoration:none;">
         <div style="background:#220026;border:1px solid rgba(255,255,255,0.03);padding:12px;border-radius:10px;min-width:200px;color:#e8dbff;">
@@ -62,7 +59,6 @@
         </div>
       </a>
     </div>
-
     <div style="margin-top:12px;font-size:12px;color:#bfb0d9">
       Tip: replace the PLACEHOLDER text with live numbers or link to an API badge that updates automatically.
     </div>
@@ -70,7 +66,6 @@
 </div>
 
 <!-- Visitor counter & GitHub stats -->
-<!-- Visitor counter & GitHub stats section (pure HTML with accessible <img> tags) -->
 <div align="center">
 
   <img 
@@ -78,7 +73,7 @@
     alt="Visitor counter for n0g1tsun3" 
     width="auto" 
     style="margin: 0 8px;" />
-
+  
   <img 
     src="https://github-readme-stats.vercel.app/api?username=n0g1tsun3&theme=midnight-purple&hide_title=true&show_icons=true&include_all_commits=true&count_private=true" 
     alt="GitHub statistics for n0g1tsun3" 
