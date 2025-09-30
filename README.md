@@ -70,8 +70,25 @@
 </div>
 
 <!-- Visitor counter & GitHub stats -->
-<p align="center">
-  ![Counter](https://count.getloli.com/get/@n0g1tsun3)  
-  ![n0g1tsun3's GitHub stats](https://github-readme-stats.vercel.app/api?username=n0g1tsun3&theme=midnight-purple&hide_title=true&show_icons=true&include_all_commits=true&count_private=true)  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n0g1tsun3&theme=midnight-purple&hide_title=true&layout=compact&langs_count=10&hide=html,javascript,css)
-</p>
+<!-- Visitor counter & GitHub stats section (pure HTML with accessible <img> tags) -->
+<div align="center">
+
+  <img 
+    src="https://count.getloli.com/get/@n0g1tsun3" 
+    alt="Visitor counter for n0g1tsun3" 
+    width="auto" 
+    style="margin: 0 8px;" />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=n0g1tsun3&theme=midnight-purple&hide_title=true&show_icons=true&include_all_commits=true&count_private=true" 
+    alt="GitHub statistics for n0g1tsun3" 
+    width="auto" 
+    style="margin: 0 8px;" />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=n0g1tsun3&theme=midnight-purple&hide_title=true&layout=compact&langs_count=10&hide=html,javascript,css"
+    alt="Top programming languages used by n0g1tsun3" 
+    width="auto" 
+    style="margin: 0 8px;" />
+
+</div>
