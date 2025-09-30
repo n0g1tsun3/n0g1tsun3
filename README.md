@@ -14,7 +14,7 @@
   <!-- TryHackMe: API endpoint as an image (from your iframe src) -->
   <a href="https://tryhackme.com/p/n0g1tsun3" aria-label="TryHackMe profile n0g1tsun3">
     <img
-      src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3898694"
+      src="https://tryhackme-badges.s3.amazonaws.com/n0g1tsun3.png"
       alt="TryHackMe public profile badge for n0g1tsun3"
       role="img"
       style="width:220px; height:auto; border-radius:8px; border:0;"
