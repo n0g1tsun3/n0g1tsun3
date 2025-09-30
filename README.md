@@ -1,6 +1,11 @@
 <img width="1920" height="540" alt="975929" src="https://github.com/user-attachments/assets/8cf88f08-57df-46b2-b092-a8db0f1ffc83" />
 
-法的な理由のため; このアカウントの内容は主に研究目的です (For legal reasons; the contents of this account are predominantly for research purposes)
+<p style="text-align: center;">
+法的な理由のため; このアカウントの内容は主に研究目的です
+</p>
+<p style="text-align: center;">
+(For legal reasons; the contents of this account are predominantly for research purposes)  
+</p>
 <!--
 **n0g1tsun3/n0g1tsun3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
