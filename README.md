@@ -9,60 +9,37 @@
   <br />(For legal reasons; the contents of this account are predominantly for research purposes)
 </p>
 
-<!-- Custom dark purple / black “Offense portfolio” card -->
-<div align="center">
-  <div style="max-width:720px;background:linear-gradient(180deg,#0b0010 0%,#120018 60%,#1e0030 100%);border-radius:12px;padding:18px;color:#e7dffb;font-family:Inter,Segoe UI,system-ui,Arial;">
-    <div style="display:flex;align-items:center;gap:12px;margin-bottom:8px;">
-      <div style="width:58px;height:58px;border-radius:10px;background:#120018;display:flex;align-items:center;justify-content:center;font-weight:700;color:#fff;font-size:18px">
-        ⚡
-      </div>
-      <div>
-        <div style="font-size:18px;font-weight:700;color:#f7e9ff">Offense portfolio</div>
-        <div style="font-size:12px;color:#bfb0d9">TryHackMe · Hack The Box · HackerOne</div>
-      </div>
-    </div>
-    <div style="display:flex;gap:12px;flex-wrap:wrap;justify-content:center;">
-      <!-- TryHackMe -->
-      <a href="https://tryhackme.com/p/<your-username>" style="text-decoration:none;">
-        <div style="background:#220026;border:1px solid rgba(255,255,255,0.03);padding:12px;border-radius:10px;min-width:200px;color:#e8dbff;">
-          <div style="font-size:13px;color:#d6c4ff">TryHackMe</div>
-          <div style="font-weight:700;font-size:18px;margin-top:6px;color:#ffffff">
-            Rank: <span style="color:#b794ff">PLACEHOLDER</span>
-          </div>
-          <div style="font-size:12px;color:#bfb0d9;margin-top:4px">
-            Rooms completed: <strong style="color:#f0e7ff">PLACEHOLDER</strong>
-          </div>
-        </div>
-      </a>
-      <!-- Hack The Box -->
-      <a href="https://www.hackthebox.com" style="text-decoration:none;">
-        <div style="background:#220026;border:1px solid rgba(255,255,255,0.03);padding:12px;border-radius:10px;min-width:200px;color:#e8dbff;">
-          <div style="font-size:13px;color:#d6c4ff">Hack The Box</div>
-          <div style="font-weight:700;font-size:18px;margin-top:6px;color:#ffffff">
-            Rank: <span style="color:#b794ff">PLACEHOLDER</span>
-          </div>
-          <div style="font-size:12px;color:#bfb0d9;margin-top:4px">
-            Boxes solved: <strong style="color:#f0e7ff">PLACEHOLDER</strong>
-          </div>
-        </div>
-      </a>
-      <!-- HackerOne -->
-      <a href="https://hackerone.com/<your-username>" style="text-decoration:none;">
-        <div style="background:#220026;border:1px solid rgba(255,255,255,0.03);padding:12px;border-radius:10px;min-width:200px;color:#e8dbff;">
-          <div style="font-size:13px;color:#d6c4ff">HackerOne</div>
-          <div style="font-weight:700;font-size:18px;margin-top:6px;color:#ffffff">
-            Valid: <span style="color:#b794ff">PLACEHOLDER</span>
-          </div>
-          <div style="font-size:12px;color:#bfb0d9;margin-top:4px">
-            Bounties: <strong style="color:#f0e7ff">PLACEHOLDER</strong>
-          </div>
-        </div>
-      </a>
-    </div>
-    <div style="margin-top:12px;font-size:12px;color:#bfb0d9">
-      Tip: replace the PLACEHOLDER text with live numbers or link to an API badge that updates automatically.
-    </div>
-  </div>
+<!-- Platform row: TryHackMe (API badge image), HackerOne and HTB badges/links -->
+<div align="center" style="display:flex;gap:12px;flex-wrap:wrap;justify-content:center;margin:18px 0;">
+  <!-- TryHackMe: API endpoint as an image (from your iframe src) -->
+  <a href="https://tryhackme.com/p/n0g1tsun3" aria-label="TryHackMe profile n0g1tsun3">
+    <img
+      src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3898694"
+      alt="TryHackMe public profile badge for n0g1tsun3"
+      role="img"
+      style="width:220px; height:auto; border-radius:8px; border:0;"
+    />
+  </a>
+
+  <!-- HackerOne: link to profile with a purple shield badge fallback -->
+  <a href="https://hackerone.com/n0g1tsun3" aria-label="HackerOne profile n0g1tsun3">
+    <img
+      src="https://img.shields.io/badge/HackerOne-n0g1tsun3-%23300066?style=for-the-badge&logo=hackerone&logoColor=white&labelColor=%23000000"
+      alt="HackerOne profile for n0g1tsun3"
+      role="img"
+      style="width:220px; height:auto; border-radius:8px; border:0;"
+    />
+  </a>
+
+  <!-- Hack The Box: link to profile with a purple shield badge fallback -->
+  <a href="https://ctf.hackthebox.com/user/profile/900964" aria-label="Hack The Box profile 900964">
+    <img
+      src="https://img.shields.io/badge/HackTheBox-900964-%23300066?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=%23000000"
+      alt="Hack The Box profile 900964"
+      role="img"
+      style="width:220px; height:auto; border-radius:8px; border:0;"
+    />
+  </a>
 </div>
 
 <!-- Visitor counter & GitHub stats -->
