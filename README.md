@@ -7,6 +7,6 @@
 (For legal reasons; the contents of this account are predominantly for research purposes)  
 </p>
 
-![Counter](https://count.getloli.com/get/@n0g1tsun3?theme=rule23)
+![Counter](https://count.getloli.com/get/@n0g1tsun3)
 ![n0g1tsun3's GitHub stats](https://github-readme-stats.vercel.app/api?username=n0g1tsun3&theme=midnight-purple&hide_title=true&show_icons=true&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n0g1tsun3&theme=midnight-purple&hide_title=true&layout=compact&langs_count=10&hide=html,javascript,css)
